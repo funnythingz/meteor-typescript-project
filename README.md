@@ -17,7 +17,7 @@ Meteor TypeScript Project
 % mrt add typescript-compiler
 ```
 
-## Credits
+## Tips
 
-https://github.com/orefalo/meteor-typescript-compiler
+https://github.com/orefalo/meteor-typescript-compiler<br>
 https://github.com/orefalo/meteorts-libs
