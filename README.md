@@ -20,4 +20,5 @@ Meteor TypeScript Project
 ## Tips
 
 https://github.com/orefalo/meteor-typescript-compiler<br>
-https://github.com/orefalo/meteorts-libs
+https://github.com/orefalo/meteorts-libs<br>
+https://github.com/orefalo/meteor-typescript-demos
