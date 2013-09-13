@@ -1,7 +1,10 @@
-/// <reference path="../../d.ts/lib.d.ts"/>
-/// <reference path="../../d.ts/meteor.d.ts"/>
-/// <reference path="../../d.ts/underscore.d.ts"/>
+/// <reference path="../packages/typescript-libs/node.d.ts" />
+/// <reference path="../packages/typescript-libs/meteor.d.ts" />
 
-Template['hello']['greeting'] = function () {
+if (Meteor.isClient) {
+
+  Template['hello']['greeting'] = function () {
     return "Typescript-compile of Meteor";
-};
+  };
+
+}

@@ -14,7 +14,7 @@ Meteor TypeScript Project
 > From your Meteor project, type
 
 ```
-% mrt add typescript-compiler
+% mrt install
 ```
 
 ## Tips
