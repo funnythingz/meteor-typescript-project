@@ -8,13 +8,13 @@
     "packages": {
       "typescript-compiler": {
         "git": "https://github.com/orefalo/meteor-typescript-compiler.git",
-        "tag": "v0.7.6.3",
-        "commit": "9242d3f292223eb0272e51a36c21244196a80f3a"
+        "tag": "v0.7.7.1",
+        "commit": "325301b9f66d085f873b9a138717d023c6a19bac"
       },
       "typescript-libs": {
         "git": "https://github.com/orefalo/meteor-typescript-libs.git",
-        "tag": "v0.1.1",
-        "commit": "1d242844a3aec3fa461f4b66f4d56c2799f4ac8c"
+        "tag": "v0.1.9",
+        "commit": "33ba54a5a84c4aa84d979b99cb7ec747a8638221"
       }
     }
   }
