@@ -17,6 +17,12 @@ Meteor TypeScript Project
 % mrt install
 ```
 
+> update
+
+```
+% mrt update
+```
+
 ## Credits
 
 https://github.com/orefalo/meteor-typescript-compiler<br>
